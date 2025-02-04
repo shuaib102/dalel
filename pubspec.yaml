@@ -1,0 +1,141 @@
+name: your_project_name
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add other dependencies here
+  cupertino_icons: ^1.0.2
+  hexcolor: ^2.0.5
+  video_player: ^2.8.2
+  fluttericon: ^2.0.0
+  image_picker: ^1.0.7
+  community_material_icon: ^5.9.55
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.2.4
+  google_maps_flutter: ^2.5.3 # يمكنك استبدال الرقم بآخر إصدار متوفر
+  material_design_icons_flutter: ^7.0.7296
+  flutter_facebook_auth: ^6.0.4
+  geolocator: ^11.0.0
+  intl_phone_number_field: ^0.1.8
+  intl_phone_field: ^3.2.0
+  cloud_firestore: ^4.14.0
+  firebase_core: ^2.25.0
+  firebase_storage: ^11.6.0
+  firebase_auth: ^4.16.0
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  json_annotation: ^4.8.1
+  icons_flutter: ^0.0.4
+  eva_icons_flutter: ^3.1.0
+  flutter_svg: ^2.0.10+1
+  http: ^1.2.1
+  flutter_file_downloader: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img51.png
+    - assets/img52.png
+    - assets/img53.png
+    - assets/img54.png
+    - assets/img55.png
+    - assets/img57.png
+    - assets/img58.png
+    - assets/img59.png
+    - assets/img60.png
+    - assets/img61.png
+    - assets/img62.png
+    - assets/img63.png
+    - assets/img64.png
+    - assets/img65.png
+    - assets/img66.png
+    - assets/img67.png
+    - assets/img68.png
+    - assets/img69.png
+    - assets/img70.png
+    - assets/img71.png
+    - assets/img72.png
+    - assets/img73.png
+    - assets/img74.png
+    - assets/img75.png
+    - assets/img76.png
+    - assets/img77.png
+    - assets/img78.png
+    - assets/img79.png
+    - assets/img80.png
+    - assets/img81.png
+    - assets/img82.png
+    - assets/img84.jpg
+    - assets/img85.jpg
+    - assets/img86.jpg
+    - assets/img87.jpg
+    - assets/img88.jpg
+    - assets/img89.jpg
+    - assets/img90.jpg
+    - assets/img91.jpg
+    - assets/img92.jpg
+    - assets/img93.jpg
+    - assets/img94.jpg
+    - assets/img95.jpg
+    - assets/img951.jpg
+    - assets/img952.jpg
+    - assets/img953.jpg
+    - assets/img954.jpg
+    - assets/img955.jpg
+    - assets/img956.jpg
+    - assets/img2.png
+    - assets/hj1.jpg
+    - assets/img3.jpg
+    - assets/img4.jpg
+    - assets/img5.jpg
+    - assets/img6.jpg
+    - assets/img7.jpg
+    - assets/img9.jpg
+    - assets/img10.jpg
+    - assets/img11.jpg
+    - assets/img12.jpg
+    - assets/img13.jpg
+    - assets/img14.jpg
+    - assets/img15.jpg
+    - assets/img16.jpg
+    - assets/img17.jpg
+    - assets/img18.jpg
+    - assets/img19.jpg
+    - assets/img20.jpg
+    - assets/img21.jpg
+    - assets/img22.jpg
+    - assets/img23.jpg
+    - assets/img24.jpg
+    - assets/img25.jpg
+    - assets/img26.jpg
+    - assets/img28.jpg
+    - assets/img29.jpg
+    - assets/img30.jpg
+    - assets/img31.jpg
+    - assets/img32.jpg
+    - assets/img33.jpg
+    - assets/img34.jpg
+    - assets/img35.jpg
+    - assets/img36.jpg
+    - assets/img37.jpg
+    - assets/img40.jpg
+    - assets/ll1.jpg
+    - assets/videos/j1.mp4
